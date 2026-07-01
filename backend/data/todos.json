@@ -1,0 +1,12 @@
+[
+  {
+    "id": "7c97b1ee-330d-48c9-a1b0-cdfd68f53fb2",
+    "title": "Test todo",
+    "description": "A sample task",
+    "completed": false,
+    "priority": "high",
+    "dueDate": "2026-07-15",
+    "createdAt": "2026-07-01T16:19:17.488Z",
+    "updatedAt": "2026-07-01T16:19:17.488Z"
+  }
+]
